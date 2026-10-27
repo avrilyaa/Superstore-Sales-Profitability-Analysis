@@ -14,6 +14,10 @@ This project analyzes retail sales and profitability data using MySQL and Power 
 - How do discounts affect profit and loss?
 - How does profit margin change over time?
 
+## Dashboard Preview
+
+![Power BI Dashboard](images/dashboard.png)
+
 ## Key Performance Indicators (KPIs)
 | Metric | Result |
 |---|---:|
