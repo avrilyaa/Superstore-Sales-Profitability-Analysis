@@ -16,7 +16,7 @@ This project analyzes retail sales and profitability data using MySQL and Power 
 
 ## Dashboard Preview
 
-![Power BI Dashboard](Power BI Dashboard.png)
+![Power BI Dashboard](Dashboard.png)
 
 ## Key Performance Indicators (KPIs)
 | Metric | Result |
