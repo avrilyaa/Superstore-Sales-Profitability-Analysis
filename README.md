@@ -21,9 +21,9 @@ This project analyzes retail sales and profitability data using MySQL and Power 
 ## Key Performance Indicators (KPIs)
 | Metric | Result |
 |---|---:|
-| Total Sales | $1,97 |
-| Total Profit | $767,56 |
-| Total Orders | 5000 |
+| Total Sales | $1,968,038.01 |
+| Total Profit | $767,556.51 |
+| Total Orders | 5,009 |
 | Profit Margin | 39.0% |
 
 ## Key Insights
