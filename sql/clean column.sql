@@ -1,0 +1,13 @@
+ALTER TABLE superstore_clean
+    DROP COLUMN product_name,
+    DROP COLUMN sub_category,
+    DROP COLUMN product_id,
+    DROP COLUMN state,
+    DROP COLUMN city,
+    DROP COLUMN country,
+    DROP COLUMN segment,
+    DROP COLUMN customer_id,
+    DROP COLUMN customer_name,
+    DROP COLUMN ship_date,
+    DROP COLUMN ship_mode,
+    DROP COLUMN order_date;
