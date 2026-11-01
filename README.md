@@ -24,7 +24,7 @@ This project analyzes retail sales and profitability data using MySQL and Power 
 | Total Sales | $935,390.97 |
 | Total Profit | $373,081.04 |
 | Total Orders | 5,009 |
-| Profit Margin | 39.39% |
+| Profit Margin | 39.89% |
 
 ## Key Insights
 - The dataset recorded total sales of **$935,390.97** and total profit of **$373,081.04**, with 5,009 orders and an overall profit margin of 39.39%.
